@@ -1,1 +1,3 @@
-# Efficient-Extractive-Text-Summarization-Using-LLMs-and-LangChain-
+## Build Text Summarizer using LLMs with LangChain
+
+App link - https://text-summarization-application.streamlit.app/ 
